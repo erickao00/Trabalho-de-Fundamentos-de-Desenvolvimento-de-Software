@@ -1,0 +1,37 @@
+body {
+    background-color: #c8add4;
+}
+
+h1 {
+    color: #4a2c6d;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.parmera {
+    border-radius: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkblue;
+    text-decoration: underline;
+}
